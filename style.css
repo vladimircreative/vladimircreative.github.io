@@ -22,7 +22,7 @@ body {
 	align-items: center;
 	align-content: center;
 	flex-direction: column;
-	justify-content: center;
+	justify-content: space-around;
 	opacity: 0.8;
 	text-transform: uppercase;
 }
@@ -32,7 +32,7 @@ body {
 	border-color: red;
 	font-size: 0.5em;
 	font-weight: bold;
-	margin-top: 140%;
+	margin-top: 0%;
 	padding: 15px 35px 15px 35px;
 	transition: all .3s;
 	text-transform: uppercase;
