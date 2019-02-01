@@ -12,6 +12,7 @@ body {
     color: white;
     font-size: 2em;
     text-align: center;
+
 }
 
 .content{
@@ -22,21 +23,20 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	opacity: 0.8;
+	text-transform: uppercase;
 }
 
-#line {
-	color: red;
-	padding: 80px 0px 15px 0px;
-}
+
 
 .btn {
 	border-radius: 300px;
 	border-color: red;
 	font-size: 0.5em;
 	font-weight: bold;
+	margin-top: 200px;
 	padding: 15px 35px 15px 35px;
 	transition: all .3s;
-	text-transform: uppercase ;
+	text-transform: uppercase;
 }
 
 .btn:hover{
