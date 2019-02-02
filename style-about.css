@@ -116,7 +116,7 @@ body {
 
     .box:hover {
         transform: scale(1.45);
-        color:white;
+        color:#d18f3f;
         font-size: .65em;
         border-color: grey;
     }
@@ -124,10 +124,7 @@ body {
     @media only screen and (max-width: 320px) {
         .box:hover{
             transform: scale(1.2);
-            color:white;
-            z-index: 2;
             font-size: .55em;
-            border-color: grey;
         }
     }
 
